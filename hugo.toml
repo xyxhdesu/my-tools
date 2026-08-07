@@ -1,0 +1,15 @@
+baseURL = "https://tools.xingyexiaohua.xyz/"
+locale = "zh-CN"
+defaultContentLanguage = "zh-cn"
+timeZone = "Asia/Shanghai"
+title = "星野小花"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+[params]
+  description = "分享好用工具与链接的个人工具站"
+  author = "星野小花"
+  avatar = "https://blog.xingyexiaohua.xyz/images/image.png"
+  blog_index = "https://blog.xingyexiaohua.xyz/index.json"
+
+[outputs]
+  home = ["HTML"]
