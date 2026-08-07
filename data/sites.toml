@@ -1,0 +1,469 @@
+categories = ["全部", "AI 工具", "开发工具", "效率工具", "设计工具", "游戏工具", "系统工具", "媒体工具"]
+
+[[sites]]
+name = "ChatGPT"
+url = "https://chatgpt.com/"
+description = "用于写作、整理资料、头脑风暴和日常问答。"
+label = "AI"
+status = "需网络条件"
+category = "AI 工具"
+subcategory = "对话助手"
+tags = ["AI", "对话", "写作"]
+accent = "coral"
+featured = true
+external = true
+
+[[sites]]
+name = "Claude"
+url = "https://claude.ai/"
+description = "适合长文本阅读、代码协作和结构化思考。"
+label = "AI"
+status = "需网络条件"
+category = "AI 工具"
+subcategory = "对话助手"
+tags = ["AI", "阅读", "代码"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "DeepSeek"
+url = "https://chat.deepseek.com/"
+description = "中文对话、推理和代码协作的常用选择。"
+label = "AI"
+status = "国内可用"
+category = "AI 工具"
+subcategory = "对话助手"
+tags = ["AI", "推理", "中文"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Kimi"
+url = "https://www.kimi.com/"
+description = "适合阅读长文、整理资料和总结内容。"
+label = "AI"
+status = "国内可用"
+category = "AI 工具"
+subcategory = "对话助手"
+tags = ["AI", "长文", "资料"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "NotebookLM"
+url = "https://notebooklm.google.com/"
+description = "围绕上传资料进行问答、摘要和笔记整理。"
+label = "AI"
+status = "需网络条件"
+category = "AI 工具"
+subcategory = "检索阅读"
+tags = ["AI", "笔记", "资料"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "Perplexity"
+url = "https://www.perplexity.ai/"
+description = "带来源引用的联网检索和研究助手。"
+label = "AI"
+status = "需网络条件"
+category = "AI 工具"
+subcategory = "检索阅读"
+tags = ["AI", "搜索", "研究"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "Gamma"
+url = "https://gamma.app/"
+description = "快速制作演示文稿、文档和网页内容。"
+label = "AI"
+status = "需网络条件"
+category = "AI 工具"
+subcategory = "内容生成"
+tags = ["AI", "PPT", "文档"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "GitHub"
+url = "https://github.com/"
+description = "托管代码、查看开源项目，也可以管理自己的作品。"
+label = "CODE"
+status = "国内可用"
+category = "开发工具"
+subcategory = "代码托管"
+tags = ["Git", "开源", "代码"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Hugo 文档"
+url = "https://gohugo.io/documentation/"
+description = "搭建静态网站时最常用的官方参考。"
+label = "DOCS"
+status = "国内可用"
+category = "开发工具"
+subcategory = "文档部署"
+tags = ["Hugo", "静态网站", "文档"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "MDN Web Docs"
+url = "https://developer.mozilla.org/zh-CN/"
+description = "查询 HTML、CSS、JavaScript 和 Web API。"
+label = "REFERENCE"
+status = "国内可用"
+category = "开发工具"
+subcategory = "文档部署"
+tags = ["Web", "JavaScript", "CSS"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "StackBlitz"
+url = "https://stackblitz.com/"
+description = "在浏览器里创建、运行和分享前端项目。"
+label = "CODE"
+status = "需网络条件"
+category = "开发工具"
+subcategory = "在线开发"
+tags = ["前端", "在线 IDE", "项目"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "CodePen"
+url = "https://codepen.io/"
+description = "快速测试和分享 HTML、CSS、JavaScript 片段。"
+label = "CODE"
+status = "国内可用"
+category = "开发工具"
+subcategory = "在线开发"
+tags = ["前端", "CSS", "示例"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "Can I use"
+url = "https://caniuse.com/"
+description = "查询浏览器对 Web 功能的兼容情况。"
+label = "CHECK"
+status = "国内可用"
+category = "开发工具"
+subcategory = "调试查询"
+tags = ["兼容性", "浏览器", "Web"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Regex101"
+url = "https://regex101.com/"
+description = "编写、解释和测试正则表达式。"
+label = "REGEX"
+status = "国内可用"
+category = "开发工具"
+subcategory = "调试查询"
+tags = ["正则", "文本", "调试"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "Hoppscotch"
+url = "https://hoppscotch.io/"
+description = "在线发送和调试 API 请求。"
+label = "API"
+status = "国内可用"
+category = "开发工具"
+subcategory = "调试查询"
+tags = ["API", "HTTP", "调试"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "Cloudflare Pages"
+url = "https://developers.cloudflare.com/pages/"
+description = "部署静态网站和前端项目的官方文档。"
+label = "DEPLOY"
+status = "国内可用"
+category = "开发工具"
+subcategory = "文档部署"
+tags = ["部署", "Cloudflare", "Pages"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Notion"
+url = "https://www.notion.so/"
+description = "记录笔记、管理页面和项目协作。"
+label = "NOTE"
+status = "需网络条件"
+category = "效率工具"
+subcategory = "笔记收藏"
+tags = ["笔记", "知识库", "协作"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Raindrop.io"
+url = "https://raindrop.io/"
+description = "收藏、标签化并整理网页链接。"
+label = "BOOKMARK"
+status = "需网络条件"
+category = "效率工具"
+subcategory = "笔记收藏"
+tags = ["书签", "收藏", "整理"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "DeepL"
+url = "https://www.deepl.com/translator"
+description = "用于翻译文本和文档的在线工具。"
+label = "TRANSLATE"
+status = "需网络条件"
+category = "效率工具"
+subcategory = "翻译"
+tags = ["翻译", "语言", "文档"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "Excalidraw"
+url = "https://excalidraw.com/"
+description = "快速画流程图、草图和产品想法。"
+label = "DRAW"
+status = "国内可用"
+category = "效率工具"
+subcategory = "图表白板"
+tags = ["白板", "流程图", "协作"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "trace.moe"
+url = "https://trace.moe/"
+description = "上传动画截图，反向查找对应的番剧和具体时间点。"
+label = "ANIME"
+status = "需网络条件"
+category = "效率工具"
+subcategory = "反向搜图"
+tags = ["动画", "搜图", "识别"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "SauceNAO"
+url = "https://saucenao.com/"
+description = "反向搜索图片来源，适合查插画、图片和作品出处。"
+label = "SEARCH"
+status = "需网络条件"
+category = "效率工具"
+subcategory = "反向搜图"
+tags = ["搜图", "插画", "图片"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "Figma"
+url = "https://www.figma.com/"
+description = "协作制作界面、原型和设计系统。"
+label = "DESIGN"
+status = "需网络条件"
+category = "设计工具"
+subcategory = "界面设计"
+tags = ["UI", "原型", "协作"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "Photopea"
+url = "https://www.photopea.com/"
+description = "浏览器内编辑 PSD、图片和设计文件。"
+label = "IMAGE"
+status = "国内可用"
+category = "设计工具"
+subcategory = "图片编辑"
+tags = ["图片", "PSD", "编辑"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Squoosh"
+url = "https://squoosh.app/"
+description = "在浏览器内压缩图片并转换格式。"
+label = "IMAGE"
+status = "需网络条件"
+category = "设计工具"
+subcategory = "图片压缩"
+tags = ["图片", "压缩", "转换"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "TinyPNG"
+url = "https://tinypng.com/"
+description = "压缩 PNG 和 JPEG 图片，上传即用。"
+label = "IMAGE"
+status = "国内可用"
+category = "设计工具"
+subcategory = "图片压缩"
+tags = ["图片", "压缩", "优化"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "Lucide"
+url = "https://lucide.dev/icons/"
+description = "简洁的开源图标库，适合网页和应用。"
+label = "ICON"
+status = "国内可用"
+category = "设计工具"
+subcategory = "图标资源"
+tags = ["图标", "开源", "SVG"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "Iconify"
+url = "https://iconify.design/"
+description = "搜索和使用多个图标集中的图标。"
+label = "ICON"
+status = "国内可用"
+category = "设计工具"
+subcategory = "图标资源"
+tags = ["图标", "SVG", "设计"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "Steam"
+url = "https://store.steampowered.com/"
+description = "Steam 官方商店入口，用于购买、下载和管理游戏。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "游戏工具"
+subcategory = "游戏平台"
+tags = ["游戏", "Steam", "官方"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "图吧工具箱"
+url = "https://www.tbtool.cn/"
+description = "图拉丁吧工具箱官方入口，包含硬件检测和装机维护工具。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "系统工具"
+subcategory = "装机维护"
+tags = ["硬件", "装机", "检测"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "MTool"
+url = "https://mtool.app/"
+description = "MTool 官方入口，提供游戏翻译和辅助功能。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "游戏工具"
+subcategory = "游戏辅助"
+tags = ["游戏", "翻译", "MTool"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "JijiDown"
+url = "https://www.jijidown.com/"
+description = "JijiDown 官方网页工具入口，请仅处理拥有下载权限的内容。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "媒体工具"
+subcategory = "视频工具"
+tags = ["视频", "下载", "JijiDown"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "Windows 下载"
+url = "https://www.microsoft.com/software-download/"
+description = "Microsoft 官方 Windows 下载和安装介质入口。"
+label = "OFFICIAL"
+status = "需网络条件"
+category = "系统工具"
+subcategory = "系统软件"
+tags = ["Windows", "微软", "系统"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "Visual Studio Code"
+url = "https://code.visualstudio.com/"
+description = "VS Code 官方下载和文档入口。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "开发工具"
+subcategory = "代码编辑器"
+tags = ["VS Code", "编辑器", "开发"]
+accent = "mint"
+external = true
+
+[[sites]]
+name = "OBS Studio"
+url = "https://obsproject.com/"
+description = "OBS Studio 官方下载，用于录屏和直播推流。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "媒体工具"
+subcategory = "录制直播"
+tags = ["录屏", "直播", "OBS"]
+accent = "coral"
+external = true
+
+[[sites]]
+name = "7-Zip"
+url = "https://www.7-zip.org/"
+description = "7-Zip 官方下载，轻量的开源压缩和解压工具。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "系统工具"
+subcategory = "常用软件"
+tags = ["压缩", "解压", "开源"]
+accent = "yellow"
+external = true
+
+[[sites]]
+name = "Everything"
+url = "https://www.voidtools.com/zh-cn/"
+description = "Everything 官方下载，用于快速检索 Windows 本地文件。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "系统工具"
+subcategory = "常用软件"
+tags = ["文件搜索", "Windows", "Everything"]
+accent = "blue"
+external = true
+
+[[sites]]
+name = "Rufus"
+url = "https://rufus.ie/"
+description = "Rufus 官方下载，用于制作可启动 USB 安装盘。"
+label = "OFFICIAL"
+status = "国内可用"
+category = "系统工具"
+subcategory = "装机维护"
+tags = ["U盘启动", "装机", "Rufus"]
+accent = "mint"
+external = true
+
+[hidden]
+title = "隐藏链接"
+description = "留给偶然发现这里的人。"
+
+[[hidden.sites]]
+name = "我的博客"
+url = "https://blog.xingyexiaohua.xyz/"
+description = "记录正在继续的冒险、想法与日常。"
+label = "BLOG"
+status = "国内可用"
